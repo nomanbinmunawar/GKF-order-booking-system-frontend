@@ -1,6 +1,6 @@
 {
-  "short_name": " orders",
-  "name": "order-booking-system",
+  "short_name": "Order-Book",
+  "name": "GKF-Order-Book",
   "icons": [
   {
     "src": "/logo192.png",
